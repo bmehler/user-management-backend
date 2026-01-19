@@ -2,7 +2,11 @@
 ## Apollo - Prisma - Graphql
 
 ```bash
-cd <folder>.git
+git clone https://github.com/bmehler/user-management-backend.git
+user-management-backend
+```
+### Installing Node Modules
+```bash
 npm install
 ```
 ### Starting App
